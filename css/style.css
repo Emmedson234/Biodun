@@ -1,0 +1,23 @@
+
+    h1{
+        font-size: 26px;
+        font-weight:200;
+        color: brown;
+    }
+
+    a{
+        color: chartreuse;
+    }
+
+    #headerid{
+        color: white;
+        background-color: purple;
+        padding: 10px;
+    }
+
+    .nav {
+        background-color: black;
+        color: azure;
+        float: right;
+    }
+
